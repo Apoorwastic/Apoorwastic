@@ -18,7 +18,7 @@
 
 [![Apoorwa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorwastic&show_icons=true&theme=radical)](https://github.com/Apoorwastic)
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorwa-priyam-763928201/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorwa-%E2%80%8E-23aa7334b/)
 
 <!--
 **Apoorwastic/Apoorwastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
