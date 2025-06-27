@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Apoorwa Priyam
+# 👋 Hi, I’m Apoorwa
 
 🎓 B.Tech graduate from BIT Mesra | Aspiring Software & DevOps Engineer  
 🛠️ Skilled in Java, Python, core data structures, CI/CD, and cloud fundamentals  
