@@ -17,6 +17,7 @@
 - **web-service-infra** – .NET API with Terraform CI/CD infra
 
 [![Apoorwa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorwastic&show_icons=true&theme=radical)](https://github.com/Apoorwastic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorwastic&layout=compact&langs_count=10&theme=radical)](https://github.com/Apoorwastic)
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorwa-%E2%80%8E-23aa7334b/)
 
