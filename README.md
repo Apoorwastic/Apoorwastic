@@ -17,7 +17,6 @@
 - **BrailleAutocorrectSystem** - Autocorrect system for the braille keyboard
 - **Student tracker** - Portal to track attenndance of students(Python+nodejs+ angular)
 
-[![Apoorwa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorwastic&show_icons=true&theme=radical)](https://github.com/Apoorwastic)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorwastic&layout=compact&langs_count=10&theme=radical)](https://github.com/Apoorwastic)
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/apoorwa-%E2%80%8E-23aa7334b/)
